@@ -45,31 +45,257 @@ Additional readings can be found in the [Readings]({{< baseurl >}}/pages/reading
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class attendance and participation | 20% |
-| Midterm (take home) | 25% |
-| Locating web based resources as inputs into the class data base | 20% |
-| Final (take home) or a research paper on topic of your choice with approval of instructor | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm (take home)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Locating web based resources as inputs into the class data base
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final (take home) or a research paper on topic of your choice with approval of instructor
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I: Structure And Process In International Relations**{{< /td-colspan >}} |||
-| 1 |  {{< br >}}{{< br >}} The Classics—Concepts and Contexts {{< br >}}{{< br >}} [First Meeting Lecture Slides (PDF - 1.3 MB)]({{< baseurl >}}/resources/mit17_445f15_slides) {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | International Relations—Construction of Cyberspace | &nbsp; |
-| 3 | Cyberspace and the State System—New Challenges | &nbsp; |
-| 4 | Globalization and Emergent Dynamics | &nbsp; |
-| {{< td-colspan 3 >}}**Part II: Theories of International Relations  {{< br >}}**{{< /td-colspan >}} |||
-| 5 | Power and Security—Realism and Neo-Realism | &nbsp; |
-| 6 | Governance and Order—Institutionalism and Neo-Institutionalism | &nbsp; |
-| 7 | Perceptions and Expression—Constructivism | Midterm (take home) essay due |
-| 8 | Growth and Expansion—Lateral Pressure | &nbsp; |
-| 9 | Cyberpolitics in International Relations | &nbsp; |
-| {{< td-colspan 3 >}}**Part III: Strategic Issues**{{< /td-colspan >}} |||
-| 10 | International Conflict and War | &nbsp; |
-| 11 | International Cooperation and Global Agenda | &nbsp; |
-| 12 | Contending Authority—Principles and Practice | &nbsp; |
-| 13 | Alternative Futures—21st Century Challenges | Final (take home) essay due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: Structure And Process In International Relations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Classics—Concepts and Contexts
+
+[First Meeting Lecture Slides (PDF - 1.3 MB)]({{< baseurl >}}/resources/mit17_445f15_slides)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+International Relations—Construction of Cyberspace
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cyberspace and the State System—New Challenges
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization and Emergent Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Theories of International Relations  
+**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Power and Security—Realism and Neo-Realism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Governance and Order—Institutionalism and Neo-Institutionalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Perceptions and Expression—Constructivism
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm (take home) essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Growth and Expansion—Lateral Pressure
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Cyberpolitics in International Relations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III: Strategic Issues**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+International Conflict and War
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+International Cooperation and Global Agenda
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Contending Authority—Principles and Practice
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative Futures—21st Century Challenges
+{{< tdclose >}}
+{{< tdopen >}}
+Final (take home) essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
